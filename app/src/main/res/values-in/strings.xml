@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">day05Nav</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Halaman</string>
+    <string name="title_notifications">Notifikasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo komponent kosong</string>
+    <string name="profile">Profil</string>
+    <string name="nama_hint">Nama</string>
+</resources>
